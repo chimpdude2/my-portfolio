@@ -1,38 +1,38 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  url: "https://www.ctfaria.dev",
+  title: "Christopher Faria",
+  subtitle: "Software Engineer. Professional.",
+  copyright: "© All rights reserved.",
+  disqusShortname: "",
+  postsPerPage: 5,
+  googleAnalyticsId: "UA-73379983-2",
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: "Articles",
+      path: "/"
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: "About me",
+      path: "/pages/about"
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: "Contact me",
+      path: "/pages/contacts"
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: "Christopher Faria",
+    photo: "/me.JPG",
+    bio:
+      "Software Engineer living in London. Working for Intuit. Lover of music, photography and bouldering.",
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: "me@ctfaria.dev",
+      instagram: "chimp_dude2",
+      twitter: "Chimpdude2",
+      github: "chimpdude2",
+      linkedin: "ctfaria"
     }
   }
 };
