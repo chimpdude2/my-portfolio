@@ -105,7 +105,7 @@
     "gh-pages": "2.2.0",
     "lost": "8.3.1",
     "postcss-pxtorem": "4.0.1",
-    "autoprefixer": "10.1.0",
+    "autoprefixer": "10.2.0",
     "browserslist": "4.16.0"
   }
 }
